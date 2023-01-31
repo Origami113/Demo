@@ -5,4 +5,4 @@ I want to make some kind of portfolio of my DS projects
 
 ## 
 
-new changes
+some new changes
